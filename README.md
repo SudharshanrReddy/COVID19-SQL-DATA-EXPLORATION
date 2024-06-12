@@ -1,4 +1,4 @@
-# COVID19-SQL-DATA-EXPLORATION
+# COVID19-SQL-DATA-EXPLORATION 
 Overview:
 This project dives into the analysis of COVID-19 data using SQL Server. 
 Leveraging various SQL techniques such as Views, CTEs, Joins, Aggregate Functions, Window Functions, and Data Type Conversions.
